@@ -11,7 +11,7 @@ let useStyles = makeStyles(theme => ({
   root: {
     width: "100%",
     marginTop: theme.spacing(3),
-    overflowX: "auto"
+    overflowX: "auto",
   },
   table: {
     minWidth: 650
